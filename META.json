@@ -36,10 +36,10 @@
    "provides" : {
       "Algorithm::MedianSelect::XS" : {
          "file" : "lib/Algorithm/MedianSelect/XS.pm",
-         "version" : "0.21_01"
+         "version" : "0.22"
       }
    },
-   "release_status" : "testing",
+   "release_status" : "stable",
    "resources" : {
       "license" : [
          "http://dev.perl.org/licenses/"
@@ -48,6 +48,6 @@
          "url" : "https://github.com/stsc/Algorithm-MedianSelect-XS"
       }
    },
-   "version" : "0.21_01",
+   "version" : "0.22",
    "x_serialization_backend" : "JSON::PP version 2.97001"
 }

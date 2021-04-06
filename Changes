@@ -1,5 +1,9 @@
 Revision history for Perl extension Algorithm::MedianSelect::XS.
 
+0.22  2021-04-06  <schubiger@cpan.org>
+
+ - Merged development version to stable.
+
 0.21_01  2021-04-05  <schubiger@cpan.org>
 
  - Refactor {quick,bubble}_sort().
